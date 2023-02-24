@@ -73,7 +73,7 @@
   #hourCtn {
     display: flex;
     justify-content: center;
-    align-items: start;
+    align-items: flex-start;
     height: 100%;
 
     letter-spacing: 1rem;  
